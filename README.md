@@ -8,4 +8,7 @@ The purpose of this repository is to identify what kind of problems a front-end 
     * HTML
     * CSS
     * JavaScript
-3. If somebody wants to work as a Front-end developer they need to understand how the internet works
+3. If somebody wants to work as a Front-end developer they need to understand how the internet works.
+4. It is very important to look for the most important frameworks and libraries.  
+
+# [Como se Tornar um Desenvolvedor Front-End em 2021](https://youtu.be/lfRFBqcqu1s)
