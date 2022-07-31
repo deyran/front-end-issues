@@ -30,15 +30,26 @@ TypeScript from the basic to more advanced concepts, so the end of this course y
 # [Prerequisites](https://youtu.be/d56mG7DezGs?t=52)  
 ## What you should know:
 JavaScript
-    1. Variable and constants
-    2. Arrays
-    3. Objects
-    4. Functions
-    5. Arrows functions
-    6. Destructuring
+1. Variable and constants
+2. Arrays
+3. Objects
+4. Functions
+5. Arrows functions
+6. Destructuring  
 
+## [How to take this course](https://youtu.be/d56mG7DezGs?t=91)
+1. Watch all lessons from A to Z.
+2. Takes notes.
+3. Complete all the exercises
 
+## You'll will learn
+1. Introduction to TypeScript
+2. Setting up the development environment
+3. Creating your first TypeScript program
+4. Configuring the TypeScript compiler
+5. Debugging TypeScript application
 
 Tutorial for Beginners [2022]
     Prerequisites
-        What you should know:
+        How to take this course
+            You'll will learn
