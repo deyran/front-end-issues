@@ -50,7 +50,10 @@ JavaScript
 5. Debugging TypeScript application
 
 # [What is TypeScript?](https://youtu.be/d56mG7DezGs?t=178)
-
+In this section we will look at these issues:
+1. What is TypeScript?
+2. Why do we need it?
+3. How is it different from JavaScript?
 
 Tutorial for Beginners [2022]
     What is TypeScript?
