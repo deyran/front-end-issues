@@ -55,5 +55,8 @@ In this section we will look at these issues:
 2. Why do we need it?
 3. How is it different from JavaScript?
 
+## [What is TypeScript?](https://youtu.be/d56mG7DezGs?t=193)
+A programming language created at Microsoft to address shortcomings of JavaScript. TypeScript is a language program built on top of Javascript, so every JavaScript file is a TypeScript file.
+
 Tutorial for Beginners [2022]
     What is TypeScript?
