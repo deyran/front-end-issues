@@ -28,6 +28,17 @@ The purpose of this md file is to catalog knowledge about TypeScript using the y
 TypeScript from the basic to more advanced concepts, so the end of this course you'll be able to build large-scale applications.  
 
 # [Prerequisites](https://youtu.be/d56mG7DezGs?t=52)  
+## What you should know:
+JavaScript
+    1. Variable and constants
+    2. Arrays
+    3. Objects
+    4. Functions
+    5. Arrows functions
+    6. Destructuring
+
+
 
 Tutorial for Beginners [2022]
     Prerequisites
+        What you should know:
