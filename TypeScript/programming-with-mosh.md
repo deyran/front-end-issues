@@ -24,4 +24,9 @@ The purpose of this md file is to catalog knowledge about TypeScript using the y
 * Nullable Types 
 * Optional Chaining
 
+# [Introduction](https://youtu.be/d56mG7DezGs?t=1)  
+* TypeScript from the basic to more advanced concepts, so the end of this course you'll be able to build large-scale applications.
+
+
 Tutorial for Beginners [2022]
+    Introduction
