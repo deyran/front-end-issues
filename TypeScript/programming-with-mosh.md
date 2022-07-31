@@ -49,7 +49,8 @@ JavaScript
 4. Configuring the TypeScript compiler
 5. Debugging TypeScript application
 
+# [What is TypeScript?](https://youtu.be/d56mG7DezGs?t=178)
+
+
 Tutorial for Beginners [2022]
-    Prerequisites
-        How to take this course
-            You'll will learn
+    What is TypeScript?
