@@ -1,9 +1,9 @@
 The purpose of this md file is to catalog knowledge about TypeScript using the youtube video known as [Tutorial for Beginners [2022]](https://youtu.be/d56mG7DezGs). The content of this course will be listed below:  
 
-* Introduction
-* Prerequisites
-* How to Take This Course
-* What is TypeScript?
+* [Introduction](https://youtu.be/d56mG7DezGs?t=1)
+* [Prerequisites](https://youtu.be/d56mG7DezGs?t=52)
+* [How to take this course](https://youtu.be/d56mG7DezGs?t=91)
+* [What is TypeScript?](https://youtu.be/d56mG7DezGs?t=193)
 * Setting Up the Development Environment 
 * Your First TypeScript Program
 * Configuring the TypeScript Compiler 
@@ -56,16 +56,6 @@ In this section we will look at these issues:
 3. How is it different from JavaScript?
 
 ## [What is TypeScript?](https://youtu.be/d56mG7DezGs?t=193)
-* A programming language created at Microsoft to address shortcomings of JavaScript. TypeScript is a language program built on top of Javascript, so every JavaScript file is a TypeScript file.
-* These are the benefits of TypeScript language programming:
-1. Static typing
-    means that you must to declare explicitly the type of any variable and that variable cannot be assigned a different type of variable. All errors are caught at compile time.
-2. Code completion
-3. Refactoring
-4. Shorthand notations
-
-https://youtu.be/d56mG7DezGs?t=400
 
 Tutorial for Beginners [2022]
     What is TypeScript?
-        Static typing
