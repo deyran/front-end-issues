@@ -4,7 +4,7 @@ The purpose of this md file is to catalog knowledge about TypeScript using the y
 * [Prerequisites](https://youtu.be/d56mG7DezGs?t=52)
 * [How to take this course](https://youtu.be/d56mG7DezGs?t=91)
 * [What is TypeScript?](https://youtu.be/d56mG7DezGs?t=193)
-* Setting Up the Development Environment 
+* [Setting Up the Development Environment](https://youtu.be/d56mG7DezGs)
 * Your First TypeScript Program
 * Configuring the TypeScript Compiler 
 * Debugging TypeScript Applications 
@@ -58,4 +58,4 @@ In this section we will look at these issues:
 ## [What is TypeScript?](https://youtu.be/d56mG7DezGs?t=193)
 
 Tutorial for Beginners [2022]
-    What is TypeScript?
+    Setting Up the Development Environment
