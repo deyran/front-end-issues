@@ -1,7 +1,7 @@
 # [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://youtu.be/W6NZfCO5SIk)
 
 * [What is JavaScript](https://youtu.be/W6NZfCO5SIk)
-* Setting Up the Development Environment 
+* [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
 * JavaScript in Browsers
 * Separation of Concerns
 * JavaScript in Node
@@ -15,4 +15,4 @@
 * Types of Functions 
 
 JavaScript Tutorial for Beginners
-    What is JavaScript
+    Setting Up the Development Environment
