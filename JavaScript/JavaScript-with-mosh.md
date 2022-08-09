@@ -16,3 +16,4 @@
 
 JavaScript Tutorial for Beginners
     Setting Up the Development Environment
+        index.html
