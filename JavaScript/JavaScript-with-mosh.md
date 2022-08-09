@@ -2,7 +2,7 @@
 
 * [What is JavaScript](https://youtu.be/W6NZfCO5SIk)
 * [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
-* JavaScript in Browsers
+* [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
 * Separation of Concerns
 * JavaScript in Node
 * Variables
@@ -15,5 +15,4 @@
 * Types of Functions 
 
 JavaScript Tutorial for Beginners
-    Setting Up the Development Environment
-        index.html
+    JavaScript in Browsers
