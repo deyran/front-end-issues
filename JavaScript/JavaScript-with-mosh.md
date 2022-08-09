@@ -1,6 +1,6 @@
 # [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://youtu.be/W6NZfCO5SIk)
 
-* What is JavaScript
+* [What is JavaScript](https://youtu.be/W6NZfCO5SIk)
 * Setting Up the Development Environment 
 * JavaScript in Browsers
 * Separation of Concerns
