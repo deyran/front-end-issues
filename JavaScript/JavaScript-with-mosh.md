@@ -7,10 +7,12 @@
         1. Front-end developer.
         2. Back-end developer.
         3. Full-stack developer.  
-        
+
 2. What can you do with it?
-3. Where does JavaScript code run?
-4. JavaScript vs ECMAScritp
+    1. Web / Mobile apps
+    2. Real-time Network apps
+    3. Command-line tools
+    4. Games
 
 * [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
 * [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
@@ -27,3 +29,4 @@
 
 JavaScript Tutorial fo Beginners
     What is JavaScript
+        What can you do with it?
