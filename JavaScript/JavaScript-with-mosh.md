@@ -1,6 +1,11 @@
 # [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://youtu.be/W6NZfCO5SIk)
 
-* [What is JavaScript](https://youtu.be/W6NZfCO5SIk)
+## [What is JavaScript](https://youtu.be/W6NZfCO5SIk)
+1. What is JavaScript?
+2. What can you do with it?
+3. Where does JavaScript code run?
+4. JavaScript vs ECMAScritp
+
 * [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
 * [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
 * [Separation of Concerns](https://youtu.be/W6NZfCO5SIk?t=702)
@@ -14,5 +19,5 @@
 * [Functions](https://youtu.be/W6NZfCO5SIk?t=2385)
 * [Types of Functions](https://youtu.be/W6NZfCO5SIk?t=2666) 
 
-JavaScript Tutorial for Beginners
-    Types of Functions
+JavaScript Tutorial fo Beginners
+    What is JavaScript
