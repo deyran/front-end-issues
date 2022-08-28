@@ -9,10 +9,10 @@
 * [Constants](https://youtu.be/W6NZfCO5SIk?t=1311)
 * [Primitive Types](https://youtu.be/W6NZfCO5SIk?t=1418)
 * [Dynamic Typing](https://youtu.be/W6NZfCO5SIk?t=1610)
-* Objects
+* [Objects](https://youtu.be/W6NZfCO5SIk?t=1808)
 * Arrays
 * Functions
 * Types of Functions 
 
 JavaScript Tutorial for Beginners
-    Dynamic Typing
+    Objects
