@@ -16,7 +16,11 @@
 
 3. Where does JavaScript code run?
     1. Browser
-    2. Node
+    2. Node  
+
+4. JavaScript vs ECMAScript
+    1. ECMAScript is a specification, it is responsible to defines standards that defines many new features for JavaScript
+    2. JavaScript is a programming language that conforms to ECMAScript specification
 
 * [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
 * [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
@@ -33,4 +37,4 @@
 
 JavaScript Tutorial fo Beginners
     What is JavaScript
-        Where does JavaScript code run?
+        JavaScript vs ECMAScript
