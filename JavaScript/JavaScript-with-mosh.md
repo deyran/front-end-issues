@@ -12,7 +12,11 @@
     1. Web / Mobile apps
     2. Real-time Network apps
     3. Command-line tools
-    4. Games
+    4. Games  
+
+3. Where does JavaScript code run?
+    1. Browser
+    2. Node
 
 * [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
 * [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
@@ -29,4 +33,4 @@
 
 JavaScript Tutorial fo Beginners
     What is JavaScript
-        What can you do with it?
+        Where does JavaScript code run?
