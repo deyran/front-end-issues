@@ -5,7 +5,7 @@
 * [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
 * [Separation of Concerns](https://youtu.be/W6NZfCO5SIk?t=702)
 * [JavaScript in Node](https://youtu.be/W6NZfCO5SIk?t=828)
-* Variables
+* [Variables](https://youtu.be/W6NZfCO5SIk?t=974)
 * Constants
 * Primitive Types 
 * Dynamic Typing 
@@ -15,4 +15,4 @@
 * Types of Functions 
 
 JavaScript Tutorial for Beginners
-    JavaScript in Node
+    Variables
