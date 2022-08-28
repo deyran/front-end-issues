@@ -12,7 +12,7 @@
 * [Objects](https://youtu.be/W6NZfCO5SIk?t=1808)
 * [Arrays](https://youtu.be/W6NZfCO5SIk?t=2125)
 * [Functions](https://youtu.be/W6NZfCO5SIk?t=2385)
-* Types of Functions 
+* [Types of Functions](https://youtu.be/W6NZfCO5SIk?t=2666) 
 
 JavaScript Tutorial for Beginners
-    Functions
+    Types of Functions
