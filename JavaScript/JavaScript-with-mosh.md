@@ -4,7 +4,7 @@
 * [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
 * [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
 * [Separation of Concerns](https://youtu.be/W6NZfCO5SIk?t=702)
-* JavaScript in Node
+* [JavaScript in Node](https://youtu.be/W6NZfCO5SIk?t=828)
 * Variables
 * Constants
 * Primitive Types 
@@ -15,4 +15,4 @@
 * Types of Functions 
 
 JavaScript Tutorial for Beginners
-    Separation of Concerns
+    JavaScript in Node
