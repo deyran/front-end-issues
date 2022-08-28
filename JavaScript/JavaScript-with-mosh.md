@@ -22,15 +22,11 @@
     1. ECMAScript is a specification, it is responsible to defines standards that defines many new features for JavaScript
     2. JavaScript is a programming language that conforms to ECMAScript specification  
 
-5. Let's see JavaScript in action
-
-
+## [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
 JavaScript Tutorial fo Beginners
     What is JavaScript
-        Let's see JavaScript in action
+        Setting Up the Development Environment
 
-
-* [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
 * [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
 * [Separation of Concerns](https://youtu.be/W6NZfCO5SIk?t=702)
 * [JavaScript in Node](https://youtu.be/W6NZfCO5SIk?t=828)
