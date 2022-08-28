@@ -24,8 +24,7 @@
 
 ## [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
 JavaScript Tutorial fo Beginners
-    What is JavaScript
-        Setting Up the Development Environment
+    Setting Up the Development Environment  
 
 * [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
 * [Separation of Concerns](https://youtu.be/W6NZfCO5SIk?t=702)
