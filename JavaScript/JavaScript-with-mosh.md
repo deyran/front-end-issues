@@ -2,6 +2,12 @@
 
 ## [What is JavaScript](https://youtu.be/W6NZfCO5SIk)
 1. What is JavaScript?
+    1. JavaScript is the one most widly used programming laguange in the world right now.
+    2. With JavaScript you can work as a:
+        1. Front-end developer.
+        2. Back-end developer.
+        3. Full-stack developer.  
+        
 2. What can you do with it?
 3. Where does JavaScript code run?
 4. JavaScript vs ECMAScritp
