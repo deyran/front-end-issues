@@ -20,7 +20,15 @@
 
 4. JavaScript vs ECMAScript
     1. ECMAScript is a specification, it is responsible to defines standards that defines many new features for JavaScript
-    2. JavaScript is a programming language that conforms to ECMAScript specification
+    2. JavaScript is a programming language that conforms to ECMAScript specification  
+
+5. Let's see JavaScript in action
+
+
+JavaScript Tutorial fo Beginners
+    What is JavaScript
+        Let's see JavaScript in action
+
 
 * [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
 * [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
@@ -33,8 +41,4 @@
 * [Objects](https://youtu.be/W6NZfCO5SIk?t=1808)
 * [Arrays](https://youtu.be/W6NZfCO5SIk?t=2125)
 * [Functions](https://youtu.be/W6NZfCO5SIk?t=2385)
-* [Types of Functions](https://youtu.be/W6NZfCO5SIk?t=2666) 
-
-JavaScript Tutorial fo Beginners
-    What is JavaScript
-        JavaScript vs ECMAScript
+* [Types of Functions](https://youtu.be/W6NZfCO5SIk?t=2666)
