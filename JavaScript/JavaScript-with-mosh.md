@@ -7,12 +7,12 @@
 * [JavaScript in Node](https://youtu.be/W6NZfCO5SIk?t=828)
 * [Variables](https://youtu.be/W6NZfCO5SIk?t=974)
 * [Constants](https://youtu.be/W6NZfCO5SIk?t=1311)
-* Primitive Types 
-* Dynamic Typing 
+* [Primitive Types](https://youtu.be/W6NZfCO5SIk?t=1418)
+* [Dynamic Typing](https://youtu.be/W6NZfCO5SIk?t=1610)
 * Objects
 * Arrays
 * Functions
 * Types of Functions 
 
 JavaScript Tutorial for Beginners
-    Constants
+    Dynamic Typing
