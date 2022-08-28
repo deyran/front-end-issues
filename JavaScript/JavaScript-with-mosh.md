@@ -10,9 +10,9 @@
 * [Primitive Types](https://youtu.be/W6NZfCO5SIk?t=1418)
 * [Dynamic Typing](https://youtu.be/W6NZfCO5SIk?t=1610)
 * [Objects](https://youtu.be/W6NZfCO5SIk?t=1808)
-* Arrays
-* Functions
+* [Arrays](https://youtu.be/W6NZfCO5SIk?t=2125)
+* [Functions](https://youtu.be/W6NZfCO5SIk?t=2385)
 * Types of Functions 
 
 JavaScript Tutorial for Beginners
-    Objects
+    Functions
