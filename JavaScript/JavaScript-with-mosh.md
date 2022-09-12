@@ -35,12 +35,11 @@ The [best practice](https://youtu.be/W6NZfCO5SIk?t=492) to write JavaScript code
 
 ## [JavaScript in Node](https://youtu.be/W6NZfCO5SIk?t=828)
 
+## [Variables](https://youtu.be/W6NZfCO5SIk?t=974)
 
 JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
-    JavaScript in Node
+    Variables
 
-
-* [Variables](https://youtu.be/W6NZfCO5SIk?t=974)
 * [Constants](https://youtu.be/W6NZfCO5SIk?t=1311)
 * [Primitive Types](https://youtu.be/W6NZfCO5SIk?t=1418)
 * [Dynamic Typing](https://youtu.be/W6NZfCO5SIk?t=1610)
