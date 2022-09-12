@@ -23,7 +23,11 @@
     2. JavaScript is a programming language that conforms to ECMAScript specification  
 
 ## [Setting Up the Development Environment](https://youtu.be/W6NZfCO5SIk?t=283)
-JavaScript Tutorial fo Beginners
+1. To write JavaScript code you need a code editor
+2. Install [Nodejs](https://youtu.be/W6NZfCO5SIk?t=311)
+
+
+JavaScript Tutorial for Beginners
     Setting Up the Development Environment  
 
 * [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
