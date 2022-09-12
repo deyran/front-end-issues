@@ -33,6 +33,10 @@ The [best practice](https://youtu.be/W6NZfCO5SIk?t=492) to write JavaScript code
 
 ## [Separation of Concerns](https://youtu.be/W6NZfCO5SIk?t=702)
 
+
+JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
+    Separation of Concerns
+
 * [JavaScript in Node](https://youtu.be/W6NZfCO5SIk?t=828)
 * [Variables](https://youtu.be/W6NZfCO5SIk?t=974)
 * [Constants](https://youtu.be/W6NZfCO5SIk?t=1311)
