@@ -26,7 +26,7 @@
 1. To write JavaScript code you need a code editor
 2. Install [Nodejs](https://youtu.be/W6NZfCO5SIk?t=311)
 3. Create [js-basics](https://youtu.be/W6NZfCO5SIk?t=344) folder and index.html file 
-
+4. Install [Live server](https://youtu.be/W6NZfCO5SIk?t=398)
 
 JavaScript Tutorial for Beginners
     Setting Up the Development Environment  
