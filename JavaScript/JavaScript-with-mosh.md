@@ -28,11 +28,11 @@
 3. Create [js-basics](https://youtu.be/W6NZfCO5SIk?t=344) folder and index.html file 
 4. Install [Live server](https://youtu.be/W6NZfCO5SIk?t=398)
 
-JavaScript Tutorial for Beginners
-    Setting Up the Development Environment  
+## [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
+The [best practice](https://youtu.be/W6NZfCO5SIk?t=492) to write JavaScript code
 
-* [JavaScript in Browsers](https://youtu.be/W6NZfCO5SIk?t=473)
-* [Separation of Concerns](https://youtu.be/W6NZfCO5SIk?t=702)
+## [Separation of Concerns](https://youtu.be/W6NZfCO5SIk?t=702)
+
 * [JavaScript in Node](https://youtu.be/W6NZfCO5SIk?t=828)
 * [Variables](https://youtu.be/W6NZfCO5SIk?t=974)
 * [Constants](https://youtu.be/W6NZfCO5SIk?t=1311)
