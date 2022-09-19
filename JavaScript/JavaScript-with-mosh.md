@@ -36,6 +36,13 @@ The [best practice](https://youtu.be/W6NZfCO5SIk?t=492) to write JavaScript code
 ## [JavaScript in Node](https://youtu.be/W6NZfCO5SIk?t=828)
 
 ## [Variables](https://youtu.be/W6NZfCO5SIk?t=974)
+* By default, the variable in JavaScript is set to *undefined* value
+* There are a set of rules for naming a variable:
+    1. Cannot be a reserved keyword
+    2. Cannot start with a number
+    3. Cannot contains a space or hyphen
+    4. Are case-sensitive
+* AAAAAAAAAAaaa
 
 JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
     Variables
