@@ -54,10 +54,11 @@ The [best practice](https://youtu.be/W6NZfCO5SIk?t=492) to write JavaScript code
 
 ## [Primitive Types](https://youtu.be/W6NZfCO5SIk?t=1418)
 
-JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
-    Primitive Types
+## [Dynamic Typing](https://youtu.be/W6NZfCO5SIk?t=1610)
 
-* [Dynamic Typing](https://youtu.be/W6NZfCO5SIk?t=1610)
+JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
+    Dynamic Typing  
+
 * [Objects](https://youtu.be/W6NZfCO5SIk?t=1808)
 * [Arrays](https://youtu.be/W6NZfCO5SIk?t=2125)
 * [Functions](https://youtu.be/W6NZfCO5SIk?t=2385)
