@@ -50,12 +50,13 @@ The [best practice](https://youtu.be/W6NZfCO5SIk?t=492) to write JavaScript code
     3. Using *const*
     4. Using nothing
 
-* [Constants](https://youtu.be/W6NZfCO5SIk?t=1311)
+## [Constants](https://youtu.be/W6NZfCO5SIk?t=1311)
+
+## [Primitive Types](https://youtu.be/W6NZfCO5SIk?t=1418)
 
 JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
-    Constants
+    Primitive Types
 
-* [Primitive Types](https://youtu.be/W6NZfCO5SIk?t=1418)
 * [Dynamic Typing](https://youtu.be/W6NZfCO5SIk?t=1610)
 * [Objects](https://youtu.be/W6NZfCO5SIk?t=1808)
 * [Arrays](https://youtu.be/W6NZfCO5SIk?t=2125)
