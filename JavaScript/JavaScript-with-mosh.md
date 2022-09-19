@@ -50,10 +50,11 @@ The [best practice](https://youtu.be/W6NZfCO5SIk?t=492) to write JavaScript code
     3. Using *const*
     4. Using nothing
 
-JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
-    Variables
-
 * [Constants](https://youtu.be/W6NZfCO5SIk?t=1311)
+
+JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
+    Constants
+
 * [Primitive Types](https://youtu.be/W6NZfCO5SIk?t=1418)
 * [Dynamic Typing](https://youtu.be/W6NZfCO5SIk?t=1610)
 * [Objects](https://youtu.be/W6NZfCO5SIk?t=1808)
