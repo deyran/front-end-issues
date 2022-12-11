@@ -20,7 +20,7 @@ The purpose of this md file is to catalog knowledge about TypeScript using the y
 ## [Functions](https://youtu.be/d56mG7DezGs?t=2193)
 ## [Objects](https://youtu.be/d56mG7DezGs?t=2604s)
 
-## Advanced Types
+# [Advanced Types](https://youtu.be/d56mG7DezGs?t=2879)
 ## Type Aliases
 ## Union Types 
 ## Intersection Types 
@@ -29,4 +29,4 @@ The purpose of this md file is to catalog knowledge about TypeScript using the y
 ## Optional Chaining
 
 Tutorial for Beginners [2022]
-    Fundamentals
+    Advanced Types
