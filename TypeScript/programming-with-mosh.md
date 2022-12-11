@@ -12,13 +12,13 @@ The purpose of this md file is to catalog knowledge about TypeScript using the y
 
 # [Fundamentals](https://youtu.be/d56mG7DezGs?t=1379)
 
-## Built-In Types
-## The any Type
-## Arrays
-## Tuples
-## Enums
-## Functions
-## Objects
+## [Built-In Types](https://youtu.be/d56mG7DezGs?t=1404)
+## [The any Type](https://youtu.be/d56mG7DezGs?t=1523)
+## [Arrays](https://youtu.be/d56mG7DezGs?t=1689)
+## [Tuples](https://youtu.be/d56mG7DezGs?t=1827)
+## [Enums](https://youtu.be/d56mG7DezGs?t=1990)
+## [Functions](https://youtu.be/d56mG7DezGs?t=2193)
+## [Objects](https://youtu.be/d56mG7DezGs?t=2604s)
 
 ## Advanced Types
 ## Type Aliases
@@ -27,3 +27,6 @@ The purpose of this md file is to catalog knowledge about TypeScript using the y
 ## Literal Types 
 ## Nullable Types 
 ## Optional Chaining
+
+Tutorial for Beginners [2022]
+    Fundamentals
