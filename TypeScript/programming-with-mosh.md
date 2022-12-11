@@ -21,12 +21,12 @@ The purpose of this md file is to catalog knowledge about TypeScript using the y
 ## [Objects](https://youtu.be/d56mG7DezGs?t=2604s)
 
 # [Advanced Types](https://youtu.be/d56mG7DezGs?t=2879)
-## Type Aliases
-## Union Types 
-## Intersection Types 
-## Literal Types 
-## Nullable Types 
-## Optional Chaining
+## [Type Aliases](https://youtu.be/d56mG7DezGs?t=2908)
+## [Union Types](https://youtu.be/d56mG7DezGs?t=3006) 
+## [Intersection Types](https://youtu.be/d56mG7DezGs?t=3163)
+## [Literal Types](https://youtu.be/d56mG7DezGs?t=3286)
+## [Nullable Types](https://youtu.be/d56mG7DezGs?t=3391)
+## [Optional Chaining](https://youtu.be/d56mG7DezGs?t=3548)
 
 Tutorial for Beginners [2022]
     Advanced Types
