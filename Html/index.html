@@ -15,38 +15,42 @@
 <body>
     <div class="container">
         <header>
-            <nav>
-                <div class="nav-container">
-                    <img src="img/logo.png" id="logo" alt="JobFinder">
-                    <ul>
-                        <li><a href="#">Encontrar vaga</a></li>
-                        <li><a href="#">Enviar vaga</a></li>
-                        <li><a href="#">Contato</a></li>    
-                    </ul>
-                </div>
-            </nav>
-            <div id="main-banner">
-                <div id="search-form">
-                    <h1>A maneira mais fácil de encontrar um emprego</h1>
-                    <p>Conecte-se de forma gratuíta as melhores empresas e consiga emprego dos seus sonhos</p>
-                </div>
-                <form action="">
-                    <input type="text" name="job" placeholder="Digite o campo" />
-                    <select name="region">
-                        <option value="">Todo os estados</option>
-                    </select>
-                    <select name="category">
-                        <option value="">Categoria</option>
-                    </select>
-                    <input type="button" value="Pesquisar" />
-                </form>
-            </div>
-        </header>
+			<nav>
+				<div class="nav-container">
+					<a href="index.html">
+						<img id="logo" src="img/logo.png" alt="JobFinder">
+					</a>
+					<i class="fas fa-bars btn-menumobile"></i>
+					<ul>
+						<li><a href="findjobs.html">Encontrar vaga</a></li>
+						<li><a href="sendjobs.html">Enviar vaga</a></li>
+						<li><a href="#">Contato</a></li>
+					</ul>
+				</div>
+			</nav>
+			<div id="main-banner">
+				<div id="search-form">
+					<h1>A maneira mais fácil de encontrar seu novo emprego</h1>
+					<p>Conecte-se de forma gratuita as melhores empresas e consiga o emprego dos seus sonhos.</p>			
+					<form>
+						<input type="text" name="job" placeholder="Digite o cargo">
+						<select name="region">
+							<option value="">Todos os estados</option>
+						</select>
+						<select name="category">
+							<option value="">Categoria</option>
+						</select>
+						<input type="submit" value="Pesquisar">
+					</form>
+				</div>
+			</div>
+		</header>
     </div>
 
     <script src="https://kit.fontawesome.com/ed0ad4ce25.js" crossorigin="anonymous"></script>
 <!--
-    
+Curso de HTML5 e CSS3 #04 - Criando o banner principal
+
 Curso de HTML5 e CSS3 #03 - Criando a barra de navegação do site
     > Html header tag - The header Html element represents introductory content ... It contains some heading elements but also a logo, search form, and author name, and other elements
     > Html nav tag - The nav element defines a set of navigation links
