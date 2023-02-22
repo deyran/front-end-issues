@@ -1,4 +1,40 @@
 /*GERAL*/
-html {
+html 
+{
     font-family: 'Open sans', sans-serif;
+}
+
+body 
+{
+        margin: 0;
+}
+
+h1, h2, h3, h4, h5, p, span
+{
+    margin: 0;
+    color: #666;
+}
+
+.container
+{
+    max-width: 1920px;
+    width: 100%;
+}
+
+/* header */
+header
+{
+    position: relative;
+    top: 0;
+    height: auto;
+    width: 100%;
+}
+
+/* navbar */
+nav
+{
+    position: fixed;
+    top: 0;
+    height: 100px;
+    width: 100%;
 }
