@@ -111,7 +111,7 @@ nav::after
 	padding-bottom: 15em;
 	text-align: center;
 }
-/*
+
 #search-form h1 {
 	font-size: 40px;
 }
@@ -143,4 +143,3 @@ nav::after
 #search-form input[type=submit]:hover, #sendjobs input[type=submit]:hover {
 	background-color: #2B79EB;
 }
-*/
