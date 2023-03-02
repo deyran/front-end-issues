@@ -278,3 +278,25 @@ nav::after
 .homeoffice {
 	background-color: #ff5a5f;
 }
+
+/* see more div */
+.btnjobs-container {
+	margin-top: 50px;
+}
+
+.btn-jobs {
+	text-transform: uppercase;
+	background-color: #FFF;
+	color: #3381f3;
+	border: 2px solid #3381f3;
+	border-radius: 5px;
+	text-decoration: none;
+	padding: 10px 20px;
+	font-weight: bold;
+	transition: 0.5s;
+}
+
+.btn-jobs:hover {
+	background-color: #3381f3;
+	color: #FFF;
+}
