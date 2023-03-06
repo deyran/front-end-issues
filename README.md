@@ -1,5 +1,6 @@
 # front-end-issues
-The purpose of this repository is to identify what kind of problems a front-end developer solves and his most important tool he needs to work with.
+The purpose of this repository is to identify the problems, techniques, tools and best practices that a front-end programmer must face.
+
 
 # [O que faz uma desenvolvedora front-end](https://youtu.be/ZY3-MFxVdEw)
 
