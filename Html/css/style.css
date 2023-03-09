@@ -385,3 +385,23 @@ nav::after
 .status-text {
 	font-size: 20px;
 }
+
+/* testmony container */
+#testmony-container
+{
+	background: url('../img/banner7.jpg') no-repeat;
+	background-size: cover;
+	padding: 10em 0;
+}
+
+#testmony-container h2, #testmony-container p
+{
+	color:#FFF;
+	text-align: center;
+}
+
+#testmony-container h2
+{
+	font-size: 36px;
+	margin-bottom: 50px;
+}
