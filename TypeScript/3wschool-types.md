@@ -24,9 +24,14 @@ let firstName: string = "Deyvid";
 let firstName = "Deyvid";
 ```
 
+## Special types
+
+There are three kinds of special types, that are: any, unknown, never, undefined and null.
+
+
 <!--
 # TypeScript
-## Main primitives types
+## Type assignment
 
 ----------------------------------------------
 
