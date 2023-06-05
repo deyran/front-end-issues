@@ -58,10 +58,12 @@ prog.ts(7,13): error TS2365: Operator '+' cannot be applied to types 'unknown' a
 */
 ```
 
+3. *never* - 
+
 <!--
 # TypeScript
 ## Special types
-### unknown special type
+### never special type
 ----------------------------------------------
 
 # TypeScript
