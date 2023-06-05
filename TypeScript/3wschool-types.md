@@ -40,12 +40,28 @@ console.log("\n-----------\n");
 console.log(x + z);
 ```
 
-2. *unknown* - just like any type except that the unknown type constrains the type before performing any operation
+2. *unknown* - just like any type, it allows all type. The most important difference is the unknown type restricts the type before performing any operation.
+
+```
+let x: unknown = 10;
+let y: unknown = 'hello';
+let z: unknown = true;
+
+console.log(x + y);
+console.log("\n-----------\n");
+console.log(x + z);
+
+/*
+When you try to run the application theses set of errors is shown
+prog.ts(5,13): error TS2365: Operator '+' cannot be applied to types 'unknown' and 'unknown'.
+prog.ts(7,13): error TS2365: Operator '+' cannot be applied to types 'unknown' and 'unknown'.
+*/
+```
 
 <!--
 # TypeScript
 ## Special types
-
+### unknown special type
 ----------------------------------------------
 
 # TypeScript
