@@ -17,18 +17,22 @@ TypeScript is an extension of JavaScript, it has advanced features making easier
     1. Open the prompt
     2. Type this command: **npm -g typescript**
 
-4. Creating the first "hello world" program.
-    1. Create a file named "hello-world.ts"
-    2. Type this command: **console.log("Hello World");**
-    3. Open the prompt and set the "hello-world.ts" directory
+## Creating the first "hello world" program
+
+1. Create a file named "hello-world.ts"
+2. Type this command: **console.log("Hello World");**
+3. Open the *Node.js command prompt* and set the "hello-world.ts" directory
+4. Type: tsc hello-world.ts
+5. At this point the compiler will generate a hello-world.js file
+6. Create an index.html file and attach the hello-world.js to it.
 
 <!--
 # TypeScript
-## Installing npm and the TypeScript compiler
-### Installing the TypeScript compiler
+## Creating the first "hello world" program
 ----------------------------------------------
 
 # TypeScript
 ## What's TypeScript?
 ## Installing npm and the TypeScript compiler
+## Creating the first "hello world" program
 -->
