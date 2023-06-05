@@ -6,15 +6,21 @@ TypeScript is an extension of JavaScript, it has advanced features making easier
 ## Installing npm and the TypeScript compiler
 
 1. The official TypeScript compiler is **npm**
+
 2. Before installing the TypeScript compiler, is required to install npm. To install npm, follow these steps:
     1. Go to Node.js web site: https://nodejs.org/en
     2. Click in the Windows installer (.msi) button
     3. Follow the instructions in the installer.
     4. Once the installation is complete, open the prompt and type *npm -v* to check if npm has been installed
+
 3. Now to install the TypeScript compiler follow these steps:
     1. Open the prompt
     2. Type this command: **npm -g typescript**
-4. AAAA
+
+4. Creating the first "hello world" program.
+    1. Create a file named "hello-world.ts"
+    2. Type this command: **console.log("Hello World");**
+    3. Open the prompt and set the "hello-world.ts" directory
 
 <!--
 # TypeScript
