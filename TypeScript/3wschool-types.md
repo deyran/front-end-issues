@@ -26,7 +26,7 @@ let firstName = "Deyvid";
 
 ## Special types
 
-There are three kinds of special types, that are: any, unknown, never, undefined and null.
+There are three kinds of special types, that are: **any**, **unknown**, **never**, **undefined** and **null**.
 
 1. *any* - disable type checking, allows all types. Open the hello-world.ts file, edit it to match the code below. Run and see the result
 
