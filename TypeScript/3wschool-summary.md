@@ -10,6 +10,7 @@ TypeScript is an extension of JavaScript, it has advanced features making easier
     1. Go to Node.js web site: https://nodejs.org/en
     2. Click in the Windows installer (.msi) button
     3. Follow the instructions in the installer.
+    4. Once the installation is complete, open the prompt and type *npm -v* to check if npm has been installed
 3. AAAA
 4. AAAA
 
