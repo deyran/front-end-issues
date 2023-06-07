@@ -58,7 +58,7 @@ prog.ts(7,13): error TS2365: Operator '+' cannot be applied to types 'unknown' a
 */
 ```
 
-3. *never* - Represents a variable can never be assigned a value, as seen in the example below.
+3. *never* - Represents a variable can never receive a value, as seen in the example below.
 
 ```
 let x: never = true;
