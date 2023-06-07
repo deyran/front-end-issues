@@ -58,7 +58,18 @@ prog.ts(7,13): error TS2365: Operator '+' cannot be applied to types 'unknown' a
 */
 ```
 
-3. *never* - 
+3. *never* - Represents a variable can never be assigned a value, as seen in the example below.
+
+```
+let x: never = true;
+
+/*
+if you try to run this code the below error will occurs
+prog.ts(1,5): error TS2322: Type 'boolean' is not assignable to type 'never'.
+
+This error occurs because no value can be assigned to a variable declared as type never
+*/
+```
 
 <!--
 # TypeScript
