@@ -1,7 +1,3 @@
-let x: unknown = 10;
-let y: unknown = 'hello';
-let z: unknown = true;
+let x: number | undefined;
 
-console.log(x + y);
-console.log("\n-----------\n");
-console.log(x + z);
+console.log(x);

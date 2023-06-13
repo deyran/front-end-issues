@@ -71,7 +71,17 @@ This error occurs because no value can be assigned to a variable declared as typ
 */
 ```
 
-4. *undefined* - 
+4. *undefined* - In TypeScript, *undefined* is a type that has only one value that is *undefined*. It is used when a variable has not been assigned a value, as seen in the code below:
+
+```
+let x: number | undefined;
+
+console.log(x);
+
+/*
+// console.log(x); will  return undefined
+*/
+```
 
 <!--
 # TypeScript
