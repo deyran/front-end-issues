@@ -71,10 +71,12 @@ This error occurs because no value can be assigned to a variable declared as typ
 */
 ```
 
+4. *undefined* - 
+
 <!--
 # TypeScript
 ## Special types
-### never special type
+### undefined special type
 ----------------------------------------------
 
 # TypeScript
