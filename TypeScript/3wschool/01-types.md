@@ -90,6 +90,7 @@ let myString: string | null;
 myString = "Hello world";
 myString = null;
 ```
+
 <!--
 # TypeScript
 ## Special types
