@@ -1,4 +1,2 @@
-var myString;
-myString = "Hello world";
-myString = null;
-console.log(myString);
+var myArray = ["Hello", "World"];
+console.log(myArray);

@@ -1,5 +1,3 @@
-let myString: string | null;
-myString = "Hello world";
-myString = null;
+let myArray: string[] = ["Hello", "World"];
 
-console.log(myString);
+console.log(myArray);
