@@ -83,10 +83,17 @@ console.log(x);
 */
 ```
 
+5. *null* - Is a special value and also a data type, it represents the intentional absence of any object value. In the code below there is an example of using the special type null.
+
+```
+let myString: string | null;
+myString = "Hello world";
+myString = null;
+```
 <!--
 # TypeScript
 ## Special types
-### undefined special type
+### null special type
 ----------------------------------------------
 
 # TypeScript
