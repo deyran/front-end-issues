@@ -1,3 +1,5 @@
-let x: number | undefined;
+let myString: string | null;
+myString = "Hello world";
+myString = null;
 
-console.log(x);
+console.log(myString);
