@@ -1,3 +1,5 @@
-let myArray: string[] = ["Hello", "World"];
+let names: string[] = [];
+names.push("Deyvid");
+names.push(0);
 
-console.log(myArray);
+console.log(names);
