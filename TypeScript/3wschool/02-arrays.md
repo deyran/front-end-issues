@@ -35,6 +35,13 @@ Found 1 error in hello-world.ts:3
 */
 ```
 
+### ReadyOnly
+
+The readonly keyword ensures that the array can't be changed
+
+```
+```
+
 <!--
 # TypeScript
 ## Arrays
@@ -43,4 +50,5 @@ Found 1 error in hello-world.ts:3
 
 # TypeScript
 ## Arrays
+### Strongly typed
 -->
