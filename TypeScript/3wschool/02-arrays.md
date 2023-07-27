@@ -17,7 +17,7 @@ names.push("Lara");
 console.log(names);
 ```
 
-In the previous code, the result will be: **[ 'Deyvid', 'Márcia', 'Lara' ]**. But if you try to add a new element with different type, it will result in a compile time error as shown in the code below:
+* In the previous code, the result will be: **[ 'Deyvid', 'Márcia', 'Lara' ]**. But if you try to add a new element with different type, it will result in a compile time error as shown in the code below:
 
 ```js
 let names: string[] = [];
