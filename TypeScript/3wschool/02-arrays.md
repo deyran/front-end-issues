@@ -35,6 +35,21 @@ Found 1 error in hello-world.ts:3
 */
 ```
 
+* There are other syntaxes for implementing arrays in TypeScript
+
+```
+let names2: string[] = ["Deyvid", "Márcia", "Lara"];
+console.log(names2);
+
+let names3: Array<string> = ["Deyvid", "Márcia", "Lara"];
+console.log(names3);
+
+/*
+[ 'Deyvid', 'Márcia', 'Lara' ]
+[ 'Deyvid', 'Márcia', 'Lara' ]
+*/
+```
+
 ### ReadyOnly
 
 The readonly keyword ensures that the array can't be changed
