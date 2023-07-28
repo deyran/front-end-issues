@@ -8,8 +8,8 @@ Object Types is a representation of the object that stores data
 const people: {name: string, birthdate: string, age: number} =
 {
 	name: "Deyvid Rannyere",
-    birthdate: "07-12-1980",
-    age: 43
+	birthdate: "07-12-1980",
+	age: 43
 };
 
 console.log(people);
@@ -25,8 +25,8 @@ console.log(people);
 const people: {name: string, birthdate: string, age: number} =
 {
 	name: "Deyvid Rannyere",
-    birthdate: "07-12-1980",
-    age: 27
+	birthdate: "07-12-1980",
+	age: 27
 };
 
 console.log(people);
