@@ -38,11 +38,6 @@ console.log(employee);
 <!--
 # TypeScript
 ## Tuples
-### Add elements into Tuple
-
------------------------
-# TypeScript
-## Tuples
 ### First example
 ### Add elements into Tuple
 -->
