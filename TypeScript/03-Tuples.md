@@ -20,8 +20,29 @@ console.log(employee);
 */
 ```
 
+### Add elements into Tuple
+
+```
+let employee: [number, string] = [0, 'Deyvid Rannyere']
+
+employee.push(1, 'Márcia Moraes');
+employee.push(2, 'Lara Moraes');
+
+console.log(employee);
+
+/*
+[ 0, 'Deyvid Rannyere', 1, 'Márcia Moraes', 2, 'Lara Moraes' ]
+*/
+```
+
 <!--
 # TypeScript
 ## Tuples
+### Add elements into Tuple
+
+-----------------------
+# TypeScript
+## Tuples
 ### First example
+### Add elements into Tuple
 -->
