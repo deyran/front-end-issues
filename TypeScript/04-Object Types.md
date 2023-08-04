@@ -43,8 +43,32 @@ console.log(people);
 */
 ```
 
+### Type inference
+
+Assigned values determine what type properties can be
+
+```
+const car = { type: "Ferrari" };
+
+car.type = "AAAA";
+car.type = 1;
+
+console.log(car);
+
+/*
+prog.ts(4,1): error TS2322: Type 'number' is not assignable to type 'string'.
+*/
+
+```
+
 <!--
 # TypeScript
 ## Object Types
+### Type inference
+----------------------------------------------
+
+# TypeScript
+## Object Types
 ### Changing the properties
+### Type inference
 -->
