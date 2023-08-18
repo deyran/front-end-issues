@@ -42,7 +42,23 @@ RIGTH -> 102
 */
 ```
 
-* Fully inicialized
+* **Fully inicialized** - A value for each Enum element can also be assigned.
+
+```
+enum Direction { UP = 99, DOWN = 7, LEFT = 11, RIGTH = 13 }
+
+console.log("UP -> " + Direction.UP);
+console.log("DOWN -> " + Direction.DOWN);
+console.log("LEFT -> " + Direction.LEFT);
+console.log("RIGTH -> " + Direction.RIGTH);
+
+/*
+UP -> 99
+DOWN -> 7
+LEFT -> 11
+RIGTH -> 13
+*/
+```
 
 ### String Enums
 
@@ -50,7 +66,7 @@ RIGTH -> 102
 # TypeScript
 ## Enums
 ### Numeric Enums
-#### Inicialized
+#### Fully inicialized
 ----------------------------------------------
 
 # TypeScript
@@ -58,5 +74,6 @@ RIGTH -> 102
 ### Numeric Enums
 #### Default
 #### Inicialized
+#### Fully inicialized
 ### String Enums
 -->
