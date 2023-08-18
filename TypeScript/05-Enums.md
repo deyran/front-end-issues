@@ -2,7 +2,7 @@
 
 ## Enums
 
-An Enums is a specific class that represents a group of unchangeable constants. TypeScript provides two type of Enums: Numeric Enums and String Enums
+An Enums is a specific class that represents a group of unchangeable constants. TypeScript provides three types of Enums: Numeric Enums, String Enums and Heterogeneous enums.
 
 ### Numeric Enums
 
@@ -62,6 +62,9 @@ RIGTH -> 13
 
 ### String Enums
 
+### Heterogeneous enums
+
+
 <!--
 # TypeScript
 ## Enums
@@ -76,4 +79,5 @@ RIGTH -> 13
 #### Inicialized
 #### Fully inicialized
 ### String Enums
+### Heterogeneous enums
 -->
