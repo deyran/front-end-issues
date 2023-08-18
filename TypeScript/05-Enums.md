@@ -6,11 +6,16 @@ An Enums is a specific class that represents a group of unchangeable constants. 
 
 ### Numeric Enums
 
+* Default
+* Inicialized
+* Fully inicialized
+
 ### String Enums
 
 <!--
 # TypeScript
 ## Enums
+### Numeric Enums
 ----------------------------------------------
 
 # TypeScript
