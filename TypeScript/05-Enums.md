@@ -6,7 +6,7 @@ An Enums is a specific class that represents a group of unchangeable constants. 
 
 ### Numeric Enums
 
-* Default - By default all Enum element are automatically initialized in sorted sequence starting from 0 to N (last enum element)
+* **Default** - By default all Enum element are automatically initialized in sorted sequence starting from 0 to N (last enum element)
 
 ```
 enum Direction { UP, DOWN, LEFT, RIGTH }
